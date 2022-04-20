@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background: slategrey;
+    color: white;
+    height: 100vh;
+}
+
+.wrapper {
+    width: 100%;
+}
+.post {
+    text-align: center;
+}
+
+input {
+    border-radius: 5px;
+    border: none;
+    width: 250px;
+    height: 30px;
+    padding-left: 10px;
+    margin-bottom: 50px;
+}
+
+button {
+    width: 50px;
+    height: 35px;
+
+}
